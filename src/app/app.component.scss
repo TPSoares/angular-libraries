@@ -1,0 +1,14 @@
+.container {
+    margin: 40px;
+}
+
+.split-libs {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 20px;
+
+    .my-lib2 {
+        margin-left: 100px;
+    }
+}
